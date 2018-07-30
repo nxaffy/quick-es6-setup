@@ -12,7 +12,7 @@
 	> {
 		"presets": ["env"]
 	}
- - Open package.json file and put command given below to scripts key like it is already given in file package.json "test": "echo \"Error: no test specified\" && exit 1":
+ - Open package.json file and put command given below to scripts like it is already given in file package.json "test": "echo \"Error: no test specified\" && exit 1":
     
 	> "start": "nodemon --exec babel-node app.js"
  - To test ES6 code is working create app.js file and write code
